@@ -41,3 +41,7 @@ hosting the static files in this directory on any static server will also work, 
 ## License
 
 This program is free software and is distributed under an [MIT License](LICENSE).
+
+## stuck?
+
+@johnstonmatt may be able to help :)
