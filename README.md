@@ -36,8 +36,12 @@ this readme file is in the root of the project repository :)
 
 ## Alternative deployment strategies
 
-hosting the static files in this directory on any static server will also work, but be careful when choosing which files to upload
+hosting the static files in this directory on any static server will also work, but be careful when choosing which files to upload. files listed in .gitignore should not be hosted
 
 ## License
 
 This program is free software and is distributed under an [MIT License](LICENSE).
+
+## stuck?
+
+@johnstonmatt may be able to help :)
