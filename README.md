@@ -1,12 +1,20 @@
+# Guide
+
+## HTML Primer
+
+![image of html syntax](https://serveon.site/lingo.jpg)
+
 ## Local Development
 
-this depends on npm and node :)
+this workflow depends on npm and node :)
 
 signing up at [github.com](https://github.com) is a good idea too!
 
 To serve the site from a simple Node development server:
 
     npm start
+
+(this runs the script in package.json called start)
 
 Then launch the site from your favourite browser:
 
@@ -16,7 +24,7 @@ If you wish to serve the site from a different port:
 
     PORT=8000 npm start
 
-## Deployment
+## Deployment via now.sh
 
 make an account at [now.sh](https://now.sh), preferably through github :)
 
@@ -25,6 +33,10 @@ install the [now](https://zeit.co/download) client
 run the `now` command in the root folder of the project repository to host its contents!
 
 this readme file is in the root of the project repository :)
+
+## Alternative deployment strategies
+
+hosting the static files in this directory on any static server will also work, but be careful when choosing which files to upload
 
 ## License
 
